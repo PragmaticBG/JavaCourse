@@ -1,0 +1,55 @@
+Припомняне на Java принципи от основното ниво 
+
+2. Reflection  Peter, expected 24.11
+
+3. Threads, multi-threaded programming - Peter expected 26.11
+
+
+4. XML manipulation - Peter expected 01.12
+
+	Какво е XML и кога да го използваме
+	DTD and XSD
+	SAX parser / Dom parser
+	StAX
+	Java XML APIs (JAXB)
+	Добри практики
+
+5. Networking concepts - Peter,  expected 03.12
+
+6. Networking programming in Java - Peter, expected 10.12 (skipvame 8mi)
+
+7. Date and Time APIs , expected 15.12
+
+	Old pre Java 8 Date and Time API
+	Java 8 Date and Time API
+8. Internationalization, expected 17.12
+
+9. Екипен практически проект и системи за контролиране на source code, expected ....
+
+10. RMI
+
+11. Introduction to Java FX
+
+12. Advanced JavaFX
+
+13. SQL basics, JDBC, Database manipulation - Peter
+
+	SQL (DDL and DML)
+	Relational Databases / joins types of joins
+	Introduction to JDBC
+	Querying the database
+	Different statements
+	Handling exceptions
+	Transactions
+	Добри практики
+
+14. Hibernate - Nayden
+
+15. JPA - Nayden
+
+16. Завършване на екипния проект - Nayden & Peter
+
+	Добавяне на финални щрихи към проекта
+	Обсъждане – кое мина добре, кое се нуждае от промяна
+	Какво научихме, като създадохме проекта по точно този начин
+17. Изпит - Nayden & Peter
