@@ -5,7 +5,7 @@
 3. Threads, multi-threaded programming - Peter expected 26.11
 
 
-4. XML manipulation - Peter expected 01.12
+4. XML manipulation - Peter expected 03.12
 
 	Какво е XML и кога да го използваме
 	DTD and XSD
@@ -14,15 +14,15 @@
 	Java XML APIs (JAXB)
 	Добри практики
 
-5. Networking concepts - Peter,  expected 03.12
+5. Networking concepts - Peter,  expected 15.12 (skipvame 8mi i 10ti)
 
-6. Networking programming in Java - Peter, expected 10.12 (skipvame 8mi)
+6. Networking programming in Java - Peter, expected 17.12 
 
-7. Date and Time APIs , expected 15.12
+7. Date and Time APIs , - Nayden, expected ?
 
 	Old pre Java 8 Date and Time API
 	Java 8 Date and Time API
-8. Internationalization, expected 17.12
+8. Internationalization, - Nayden, expected ?
 
 9. Екипен практически проект и системи за контролиране на source code, expected ....
 
