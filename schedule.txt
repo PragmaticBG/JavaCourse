@@ -18,21 +18,23 @@
 
 6. Networking programming in Java - Peter, expected 17.12 
 
-7. Date and Time APIs , - Nayden, expected ?
+7. Date and Time APIs , - Nayden, expected 05.01
 
 	Old pre Java 8 Date and Time API
 	Java 8 Date and Time API
-8. Internationalization, - Nayden, expected ?
 
-9. Екипен практически проект и системи за контролиране на source code, expected ....
+8. RMI  Nayden, expected 07.01
 
-10. RMI
+9. Internationalization, - Nayden, expected 07.01 ? moje i da e s RMI
 
-11. Introduction to Java FX
+10. Екипен практически проект и системи за контролиране на source code, expected .... 
+12.01 - peter i nayden
+ 
+11. Introduction to Java FX Nayden, expected 19.01
 
-12. Advanced JavaFX
+12. Advanced JavaFX Nayden, expected 21.01
 
-13. SQL basics, JDBC, Database manipulation - Peter
+13. SQL basics, JDBC, Database manipulation - Peter, expected 26.01
 
 	SQL (DDL and DML)
 	Relational Databases / joins types of joins
@@ -43,13 +45,14 @@
 	Transactions
 	Добри практики
 
-14. Hibernate - Nayden
+14. Hibernate - Nayden, expected 28.01
 
-15. JPA - Nayden
+15. JPA - Nayden, expected 02.02
 
-16. Завършване на екипния проект - Nayden & Peter
+16. Завършване на екипния проект - Nayden & Peter, expected 04.02 ? pod vapros mooje da go butnem napped
 
 	Добавяне на финални щрихи към проекта
 	Обсъждане – кое мина добре, кое се нуждае от промяна
 	Какво научихме, като създадохме проекта по точно този начин
-17. Изпит - Nayden & Peter
+
+17. Изпит - Nayden & Peter, moje bi sete e nqkolko sedmici sled proekta ili sedmica
